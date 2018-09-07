@@ -124,11 +124,13 @@
     <ClCompile Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\main.cpp" />
     <ClCompile Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\Nodo.cpp" />
     <ClCompile Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\Pila.cpp" />
+    <ClCompile Include="Cola.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\Lista.h" />
     <ClInclude Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\Nodo.h" />
     <ClInclude Include="..\..\..\..\..\Desktop\Calculadora\Calculadora\Pila.h" />
+    <ClInclude Include="Cola.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
